@@ -1,0 +1,16 @@
+{
+    "password": "TestPassword123",
+    "days": "10",
+    "months": "January",
+    "years": "1995",
+    "firstName": "Ahmed",
+    "lastName": "Ali",
+    "company": "Test Company",
+    "address1": "123 Test St",
+    "address2": "Apt 4",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "zipcode": "90001",
+    "mobileNumber": "0123456789"
+}
